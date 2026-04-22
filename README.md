@@ -104,6 +104,4 @@ I believe in being transparent about where I am in my learning — here's what I
 
 ### 🌍 *"Geography is the eye of history — and GIS is its lens."*
 
- Let's connect!*
-
 </div>
