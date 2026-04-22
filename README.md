@@ -46,9 +46,7 @@ class GISProfessional:
 
 ---
 
-</div>
 
----
 
 ## 🌱 My Learning Journey
 
@@ -74,14 +72,6 @@ I believe in being transparent about where I am in my learning — here's what I
 > ⭐ *Repositories will be updated regularly as I learn and build more!*
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=ffffff)
 
 </div>
 
