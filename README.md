@@ -104,8 +104,6 @@ I believe in being transparent about where I am in my learning — here's what I
 
 ### 🌍 *"Geography is the eye of history — and GIS is its lens."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=2E8B57&style=flat-square&label=Profile+Views)
-
-⭐ *Star a repo · Drop a message · Let's connect!*
+ Let's connect!*
 
 </div>
