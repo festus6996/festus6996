@@ -46,20 +46,6 @@ class GISProfessional:
 
 ---
 
-## 🛠️ Tools & Technologies
-
-<div align="center">
-
-### 🌍 GIS & Geospatial Platforms
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### 🌱 Currently Learning
-![Python](https://img.shields.io/badge/Python_(Beginner)-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing_(Beginner)-0B3D91?style=for-the-badge&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 </div>
 
 ---
