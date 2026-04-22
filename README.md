@@ -21,7 +21,7 @@
 ```python
 class GISProfessional:
     name        = "Festus Ayebakwo Aloah"
-    degree      = "BSc Geography & Resource Development"
+    degree      = "BA Geography & Resource Development"
     university  = "University of Ghana 🇬🇭"
     passion     = "Geographic Information Science (GIS)"
     core_skills = ["GIS", "Spatial Analysis", "Cartography", "Resource Mapping"]
