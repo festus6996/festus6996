@@ -93,9 +93,9 @@ I believe in being transparent about where I am in my learning — here's what I
 
 *I'm just one message away — let's talk maps, geography, and opportunities!*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Festus%20Aloah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/festus-ayebakwo-aloah-866ab3258)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
+[![LinkedIn](https://www.linkedin.com/in/festus-ayebakwo-aloah-866ab3258?utm_s)
+[![Email](fesus.aloah@gmail.com)
+[![Email](festusaloah723@gmail.com)
 </div>
 
 ---
