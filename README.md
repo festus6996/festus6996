@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 Hey, I'm Festus Ayebakwo Aloah 👋
+# Hey, I'm Festus Ayebakwo Aloah 
 
 ### 🎓 Geography & GIS Professional | University of Ghana
 #### Open to Work · GIS · Spatial Analysis · Remote Sensing (Learning) · Python (Learning)
